@@ -2,7 +2,7 @@
 
 Steps To Run It:
 
-1)Create a new envrionment and Install All The required dependencies ( install flask_ngrok if you want to host it)
+1)Create a new envrionment and Install All The required dependencies ( install flask_ngrok if you want to host it)\n
 2)Then Run the cell for Downloading dataset which is available at "https://rajpurkar.github.io/SQuAD-explorer/dataset/" (Only For training)
 3)Run all the cells of all layers
 4)Then if you want to train the model
